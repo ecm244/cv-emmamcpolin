@@ -1,0 +1,121 @@
+# Emma McPolin
+
+</center>
+
+ecm244@cornell.edu \| 732-737-5007
+\|linkedin.com/in/emma-mcpolin-051a52304
+
+</center>
+
+## <u>Education</u>
+
+### Cornel University, Ithaca, NY
+
+Senior Interdisciplinary Studies major focused on Marine Biology
+
+<br>
+
+3.649 GPA, Rawlings Presidential Research Scholar
+
+### Purchase College, Roatan, Honduras
+
+Winter 2025 Coral Reef Ecology program
+
+<br>
+
+## <u>Research Experiences</u>
+
+### K.Lisa Yang Center for Conservation Bioacoustics, Cornell University, Ithaca, NY
+
+**Individual Research Project Fall 2024-Present**
+
+Conduct research on beaked whales by assessing dive times through
+passive acoustic data in Triton (Matlab software). Use R to evaluate the
+distribution of species-specific dive duration and validate that the
+acoustic tag data was reproduced with passive acoustics. Interpret
+spectrograms in Raven Pro 1.6 to identify foraging buzzes of Hubbs’
+beaked whale, which have not yet been identified in the literature.
+Presented a poster of findings at Cornell Oceans Symposium and Yang
+Center Student Symposium in May 2025.
+
+**Research Assistant to PhD Candidate Marissa Garcia (advised by
+Dr. Holger Klinck) Fall 2023-Summer 2024**
+
+Gained an understanding of passive acoustic monitoring, including
+visually differentiating between sound sources such as sperm whales,
+delphinids, and anthropogenic noise across multiple time scales;
+i.e. long term spectral averages (LTSAs) and spectrograms. Identified
+clicks to species, including Hubbs’ Beaked Whale, which is a recently
+acoustically described species. Used R with a PhD candidate to find
+patterns in species occurrence at an encounter level.
+
+### Hare Lab, Cornell University, Ithaca
+
+**NY Research Assistant (2 hrs/week) Spring 2023**
+
+Labeled DNA samples to be used to evaluate the adaptive capacity of
+coastal bivalve polpulations.
+
+### Marine Academy of Science and Technology, Sandy Hook, NJ
+
+**Senior Capstone Project 2021-2022**
+
+Seined at various beaches along Sandy Hook to assess biodiversity and
+documented the relationship to how many people were at the beach during
+sampling. Presented findings at a science fair in March 2022.
+
+### James J. Howard Marine Sciences Laboratory, Sandy Hook, NJ
+
+**NOAA Research Assistant 2020-2021**
+
+Assessed changes in juvenile lobster movement and sheltering behavior
+via video in response to changes in pH.
+
+<br>
+
+## <u>Relevant Experiences</u>
+
+### Shoals Marine Lab, Durham, NH
+
+**Student Summer 2021**
+
+Virtually completed Marine Ecology and monitored tern behavior to assess
+tern sibling dynamics.
+
+<br>
+
+## <u>Work Experiences</u>
+
+### Shoals Marine Lab, Durham, NH
+
+**Employee and Student Summer 2023**
+
+Maintained grounds and worked in the kitchen Completed a transect and
+quadrat study of the intertidal zone of Appledore Island to assess the
+biodiversity of sites. Assessed the metabolic rate of hagfish via a
+respirometer to determine responses to stimuli.
+
+### Mathnasium and Kumon, Middletown, NJ
+
+**Tutor January 2021- July 2022**
+
+Assisted with increasing reading and math skills for children aged 3-15
+via written feedback. Asessed the needs of 2nd to 9th grade students and
+taught math skills via practice problems.
+
+<br>
+
+## <u>Skills and Certifications</u>
+
+**Technical Skills:**
+
+Proficient in Triton and Raven Pro (bioacoustic software), learning R.
+
+**Languages:** English and Seal of Biliteracy in Spanish.
+
+**Certifications:** PADI Open Water Scuba.
+
+**Extracurriculars:** Cornell Astronomical Society (2022-present);
+Cornel Historical European Martial Arts Club (2022-present); Cornell
+Anime Club (2022-present); Cornell Magic the Gathering Club
+(2022-present); Cornel Fanworks Club (2022-present).

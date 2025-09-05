@@ -1,6 +1,6 @@
 ---
 title: "Emma McPolin"
-format: html
+format: gfm
 editor: visual
 ---
 
@@ -12,7 +12,7 @@ ecm244\@cornell.edu \| 732-737-5007 \|linkedin.com/in/emma-mcpolin-051a52304
 
 ## [Education]{.underline}
 
-### Cornell University, Ithaca, NY
+### Cornel University, Ithaca, NY
 
 Senior Interdisciplinary Studies major focused on Marine Biology
 
@@ -42,7 +42,7 @@ Gained an understanding of passive acoustic monitoring, including visually diffe
 
 **NY Research Assistant (2 hrs/week) Spring 2023**
 
-Labeled DNA samples to be used to evaluate the adaptive capacity of coastal bivalve populations.
+Labeled DNA samples to be used to evaluate the adaptive capacity of coastal bivalve polpulations.
 
 ### Marine Academy of Science and Technology, Sandy Hook, NJ
 
@@ -80,11 +80,11 @@ Maintained grounds and worked in the kitchen Completed a transect and quadrat st
 
 **Tutor January 2021- July 2022**
 
-Assisted with increasing reading and math skills for children aged 3-15 via written feedback. Assessed the needs of 2nd to 9th grade students and taught math skills via practice problems.
+Assisted with increasing reading and math skills for children aged 3-15 via written feedback. Asessed the needs of 2nd to 9th grade students and taught math skills via practice problems.
 
 <br>
 
-## [Skills and Certifications]{.underline} 
+## [Skills and Certifications]{.underline}
 
 **Technical Skills:**
 
@@ -94,4 +94,4 @@ Proficient in Triton and Raven Pro (bioacoustic software), learning R.
 
 **Certifications:** PADI Open Water Scuba.
 
-**Extracurriculars:** Cornell Astronomical Society (2022-present); Cornell Historical European Martial Arts Club (2022-present); Cornell Anime Club (2022-present); Cornell Magic the Gathering Club (2022-present); Cornell Fanworks Club (2022-present).
+**Extracurriculars:** Cornell Astronomical Society (2022-present); Cornel Historical European Martial Arts Club (2022-present); Cornell Anime Club (2022-present); Cornell Magic the Gathering Club (2022-present); Cornel Fanworks Club (2022-present).
